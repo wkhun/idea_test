@@ -6,6 +6,6 @@ package com.wangkun;
  */
 public class test {
     public void test(){
-        System.out.println("你好世界!!!");
+        System.out.println("aaaaa");
     }
 }
